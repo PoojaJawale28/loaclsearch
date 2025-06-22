@@ -1,0 +1,51 @@
+ID,Name,Category,Address,Phone,Website,Hours,Description,Latitude,Longitude
+1,Dapoli Katta,Restaurant,Near Bus Stand Dapoli Maharashtra 415712,9876543210,http://dapolikatta.com,Mon-Sun: 10AM-10PM,Popular local eatery serving Konkani cuisine.,17.7501,73.1818
+2,Sea Breeze Resorts,Hotel,Ladghar Beach Rd Dapoli Maharashtra 415712,8765432109,http://seabreezeresorts.com,24 Hours,Comfortable beachfront resort with great views.,17.6589,73.1367
+3,Green Pharmacy,Pharmacy,Main Market Dapoli Maharashtra 415712,7654321098,N/A,Mon-Sat: 9AM-9PM,Well-stocked pharmacy with general medicines.,17.7495,73.1805
+4,Konkan Art Gallery,Art Gallery,Near Agricultural University Dapoli Maharashtra 415712,6543210987,N/A,Tue-Sun: 11AM-7PM,Showcasing local Konkan artwork and crafts.,17.7550,73.1850
+5,Fisherman's Catch,Seafood,Guhagar Rd Near Kadyavarcha Ganpati Dapoli Maharashtra 415712,9988776655,N/A,Mon-Sun: 12PM-11PM,Fresh seafood restaurant with daily specials.,17.7300,73.1700
+6,Dapoli Book Mart,Book Store,College Road Dapoli Maharashtra 415712,9123456789,N/A,Mon-Sat: 10AM-8PM,Variety of books stationery and magazines.,17.7480,73.1825
+7,Sahyadri Spices,Grocery Store,Shivaji Chowk Dapoli Maharashtra 415712,9012345678,N/A,Mon-Sun: 8AM-9PM,Local grocery store specializing in Konkan spices.,17.7470,73.1810
+8,Palm Haven Homestay,Homestay,Murud Beach Rd Dapoli Maharashtra 415712,8901234567,N/A,24 Hours,Peaceful homestay amidst coconut groves.,17.7010,73.1300
+9,Dapoli General Hospital,Hospital,Dapoli-Dabhol Rd Dapoli Maharashtra 415712,7890123456,N/A,24 Hours,Community hospital providing medical services.,17.7530,73.1790
+10,Konkan Cafe,Cafe,Main Market Dapoli Maharashtra 415712,9765432101,N/A,Mon-Sun: 8AM-9PM,Cozy cafe offering coffee and snacks.,17.7490,73.1815
+11,Shanti Medicals,Pharmacy,Near ST Bus Stand Dapoli 415712,9421001001,N/A,Mon-Sat: 9AM-9PM,Reliable medical store with broad range of medicines.,17.7505,73.1810
+12,Coastal Arts & Crafts,Gift Shop,Karde Beach Road Dapoli 415712,8805002002,N/A,Mon-Sun: 10AM-8PM,Handmade souvenirs and local artistry.,17.6890,73.1250
+13,Prasad Jewellers,Jewellery Shop,Main Bazar Dapoli 415712,7709003003,N/A,Mon-Sat: 10AM-8PM,Traditional and modern jewellery designs.,17.7488,73.1808
+14,Dapoli Computer Services,Computer Repair,College Road Dapoli 415712,9325004004,N/A,Mon-Sat: 9:30AM-7PM,Computer sales and repair services.,17.7475,73.1820
+15,Shivneri Tours & Travels,Travel Agency,Near Bank of India Dapoli 415712,9970005005,N/A,Mon-Sat: 9AM-6PM,Tour packages and vehicle rentals.,17.7510,73.1800
+16,Ganesh Dairy & Sweets,Sweet Shop,Shivaji Chowk Dapoli 415712,9890006006,N/A,Mon-Sun: 7AM-10PM,Fresh milk products and traditional Indian sweets.,17.7472,73.1808
+17,Dapoli Hardware,Hardware Store,Market Area Dapoli 415712,9689007007,N/A,Mon-Sat: 9AM-8PM,Building materials and household hardware.,17.7498,73.1812
+18,Omkar Salon,Beauty Salon,Near Bus Stand Dapoli 415712,9552008008,N/A,Mon-Sun: 10AM-9PM,Haircuts styling and beauty treatments.,17.7503,73.1816
+19,Konkan Bhoj,Restaurant,State Highway 102 Dapoli 415712,9767009009,N/A,Mon-Sun: 11AM-11PM,Authentic Konkani thali and local delicacies.,17.7600,73.1900
+20,Sukhakarta Lodging,Guesthouse,Near Murud Beach Dapoli 415712,8605010010,N/A,24 Hours,Budget-friendly stay near the beach.,17.6950,73.1320
+21,Dapoli Driving School,Driving School,Kokan Krishi Vidyapeeth Rd Dapoli 415712,9226011011,N/A,Mon-Sat: 8AM-7PM,Driving lessons for cars and bikes.,17.7540,73.1830
+22,Krishna Xerox & Stationery,Stationery Shop,College Road Dapoli 415712,7038012012,N/A,Mon-Sat: 9AM-9PM,Xerox printing and stationery supplies.,17.7482,73.1823
+23,Dapoli Fish Market,Fish Market,Near Harnai Port Dapoli 415712,N/A,N/A,Mon-Sun: 6AM-12PM,Fresh catch of the day from local fishermen.,17.6200,73.1100
+24,Nature's Delight Nursery,Plant Nursery,Anjarle Road Dapoli 415712,9112013013,N/A,Mon-Sun: 9AM-6PM,Wide variety of plants and gardening supplies.,17.7700,73.1750
+25,Coastal Bank,Bank,Main Branch Dapoli 415712,1800-200-1234,N/A,Mon-Fri: 10AM-4PM,Banking and financial services.,17.7515,73.1802
+26,Dapoli Courier Services,Courier Service,Near Post Office Dapoli 415712,9823014014,N/A,Mon-Sat: 9AM-7PM,Domestic and international parcel delivery.,17.7492,73.1807
+27,Rajeshwari Opticals,Optician,Market Area Dapoli 415712,9422015015,N/A,Mon-Sat: 10AM-9PM,Eyeglasses contact lenses and eye exams.,17.7485,73.1810
+28,Shree Ganesh Electricals,Electrical Store,Shivaji Chowk Dapoli 415712,9021016016,N/A,Mon-Sat: 9AM-8PM,Electrical appliances and wiring solutions.,17.7478,73.1809
+29,Dapoli Car Rentals,Car Rental,Near Bus Stand Dapoli 415712,8888017017,N/A,24 Hours,Cars available for rent with driver or self-drive.,17.7508,73.1815
+30,Sai Shraddha Tours,Tour Operator,Murud Beach Road Dapoli 415712,9876501801,N/A,Mon-Sat: 9AM-7PM,Organized tours and excursions around Konkan.,17.6980,73.1310
+31,The Pizza Hub,Pizzeria,College Road Dapoli 415712,7777019019,N/A,Mon-Sun: 11AM-11PM,Delicious pizzas and fast food.,17.7483,73.1824
+32,Dapoli Tailors,Tailor Shop,Main Market Dapoli 415712,9665020020,N/A,Mon-Sat: 10AM-8PM,Custom stitching and alteration services.,17.7493,73.1806
+33,Krishna Caterers,Catering Service,Dapoli-Dabhol Rd Dapoli 415712,9370021021,N/A,Mon-Sun: By Appointment,Catering for events and parties.,17.7545,73.1795
+34,Coastal Engineering Works,Engineering,MIDC Area Dapoli 415712,8698022022,N/A,Mon-Sat: 9AM-6PM,Industrial fabrication and engineering solutions.,17.7650,73.1950
+35,Dapoli Pet Store,Pet Shop,Near Petrol Pump Dapoli 415712,9922023023,N/A,Mon-Sun: 10AM-9PM,Pet food accessories and grooming services.,17.7512,73.1814
+36,Sunbeam School,School,Ladghar Road Dapoli 415712,02358-282828,N/A,Mon-Fri: 8AM-3PM,Primary and secondary education institution.,17.6700,73.1350
+37,Dapoli Gym & Fitness,Gym,Shivaji Nagar Dapoli 415712,9096024024,N/A,Mon-Sat: 6AM-10PM,Modern gym with personal trainers.,17.7460,73.1800
+38,Harshada Electronics,Electronics Store,Main Market Dapoli 415712,9881025025,N/A,Mon-Sat: 10AM-9PM,Home appliances and electronic gadgets.,17.7491,73.1809
+39,The Bakehouse,Bakery,College Road Dapoli 415712,7744026026,N/A,Mon-Sun: 8AM-9PM,Freshly baked breads cakes and pastries.,17.7477,73.1826
+40,Dapoli Sports Shop,Sporting Goods,Near Bus Stand Dapoli 415712,9555027027,N/A,Mon-Sat: 10AM-8PM,Sports equipment and active wear.,17.7502,73.1817
+41,Rural Bank of Konkan,Bank,Shivaji Chowk Dapoli 415712,1800-300-4567,N/A,Mon-Fri: 10AM-4PM,Community-focused banking services.,17.7471,73.1811
+42,Dapoli Repair Services,Appliance Repair,Market Area Dapoli 415712,9404028028,N/A,Mon-Sat: 9AM-7PM,Repair for home appliances and electronics.,17.7499,73.1813
+43,Yoga Retreat Dapoli,Yoga Studio,Karde Beach Road Dapoli 415712,8788029029,N/A,Mon-Sat: 7AM-11AM,Yoga classes and wellness workshops.,17.6885,73.1255
+44,Konkan Seafood Mart,Fish Shop,Harnai Bypass Dapoli 415712,9168030030,N/A,Mon-Sun: 7AM-7PM,Fresh and frozen seafood products.,17.6250,73.1150
+45,Dapoli Driving Centre,Driving School,Near KVK Dapoli 415712,9000031031,N/A,Mon-Sat: 8AM-7PM,Professional driving lessons.,17.7535,73.1835
+46,Green Leaf Homestay,Homestay,Anjarle Beach Road Dapoli 415712,8208032032,N/A,24 Hours,Eco-friendly homestay with organic farm.,17.7800,73.1700
+47,Shivaji Art Studio,Art Studio,Near Main Hospital Dapoli 415712,9766033033,N/A,Mon-Sat: 10AM-6PM,Art classes and custom portraits.,17.7520,73.1780
+48,The Juice Bar,Juice Shop,Bus Stand Area Dapoli 415712,7020034034,N/A,Mon-Sun: 9AM-9PM,Fresh juices smoothies and shakes.,17.7500,73.1819
+49,Dapoli Footwear,Footwear Store,Main Market Dapoli 415712,9359035035,N/A,Mon-Sat: 10AM-9PM,Wide range of shoes for all ages.,17.7487,73.1806
+50,Konkan Dairy Farm,Dairy Farm,Outside Town Dapoli 415712,9284036036,N/A,Mon-Sun: 6AM-8PM,Fresh milk and dairy products from local farm.,17.7680,73.2000
